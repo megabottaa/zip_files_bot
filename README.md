@@ -8,6 +8,11 @@ A simple telegram bot that takes a list of files sent by the user and returns th
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/samadii/zip_files_bot)
 
 
+# Telegram Bot Link 
+    https://t.me/AdamXzipper_bot
+    Bot Name : ZArchiver
+
+
 # Notes
 
  - The bot uses dictionaries to save states so it's not persistent between runs. 
